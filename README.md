@@ -1,4 +1,4 @@
-<img src="스팀 이미지.png" />
+![스팀 이미지](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/e65af0a2-63d4-4056-a03b-56e586b53ed1)
 
 ## MobileBERT를 활용한 스팀게임 리뷰 분석 프로젝트
 <!--
