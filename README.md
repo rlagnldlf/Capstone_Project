@@ -28,6 +28,7 @@ https://github.com/danmadeira/simple-icon-badges
 | app_id | app_name | review_text | review_score | review_votes |
 |--------|----------|-------------|--------------|--------------|
 | 게임 아이디 | 게임 이름    | 리뷰 문장       | 평점           | 게임 추천 여부     |
+
 2017년도까지 스팀게임의 리뷰를 담은 데이터이다. 총 9364게임에 640만개의 리뷰 데이터가 있다.
 
 ### 2.2 추출한 데이터
