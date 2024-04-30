@@ -31,6 +31,9 @@ https://github.com/danmadeira/simple-icon-badges
 
 2017년도까지 스팀게임의 리뷰를 담은 데이터이다. 총 9364게임에 640만개의 리뷰 데이터가 있다.
 
+###2.11 리뷰순서대로인기게임50개리뷰개수 (초록색은 FPS장르)
+![인기게임 50개 리뷰 순서(초록색은 FPS장르)](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/6cfdf1da-ce33-4f32-b2f2-72e3d2cd0dc4)
+
 ### 2.2 추출한 데이터
 FPS장르의 스팀 인기게임중 상위 10개 게임에 각 5000건씩 추출
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
