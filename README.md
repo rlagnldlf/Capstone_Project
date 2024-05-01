@@ -17,7 +17,7 @@ https://github.com/danmadeira/simple-icon-badges
 ![스팀 리뷰 이미지](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/46490ca0-a904-4589-9007-c9a2a2d9f8e1)
 
 ### 1.2 문제정의
-스팀은 세계 최대 규모의 전자 소프트웨어 유통망입니다. 스팀 클라이언트를 통해 게임을 구입하고 관리할 수 있으며 다양한 커뮤니티 기능을 통해 다른 유저들과 소통할 수 있습니다.약 5만 개가 넘는 게임들이 있다. [[2](https://www.pcgamesn.com/steam/total-games)] 2019년 발표된 자료에 의하면 가입 계정이 10억 개[[3](https://www.thegamer.com/steam-1-billion-users/)]를 돌파했고, 2021년에는 월 평균 사용자 1억 3,200만 명을 기록[[4](https://store.steampowered.com/news/group/4145017/view/3133946090937137590)]한 명실상부한 ESD 업계의 1인자이다.
+스팀은 세계 최대 규모의 전자 소프트웨어 유통망으로, 스팀 클라이언트를 통해 게임을 구입하고 관리할 수 있으며, 다양한 커뮤니티 기능을 통해 다른 유저들과 소통할 수 있습니다. 스팀에는 약 5만 개가 넘는 게임들이 있으며  [[2](https://www.pcgamesn.com/steam/total-games)] 2019년 발표된 자료에 의하면 가입 계정이 10억 개 [[3](https://www.thegamer.com/steam-1-billion-users/)]를 돌파했고, 021년에는 월 평균 사용자 1억 3,200만 명을 기록[[4](https://store.steampowered.com/news/group/4145017/view/3133946090937137590)]한 명실상부한 ESD 업계의 1인자이다.
 FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에서 게임 세계를 바라보며, 총기를 사용하여 적을 격파하고 임무를 수행하는 게임 장르입니다.
 ## 2. 데이터
 ### 2.1 원시 데이터
