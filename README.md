@@ -22,7 +22,6 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 ## 2. 데이터
 ### 2.1 원시 데이터
 [[Steam Reviews 데이터셋](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)]
-[[스팀 홈페이지](https://store.steampowered.com/)]
 * 데이터 구성
 
 | app_id | app_name | review_text | review_score | review_votes |
