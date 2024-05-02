@@ -54,7 +54,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 | BioShock Infinite | 스팀펑크 세계를 배경으로 한 대담한 모험과 인종 문제와 종교적 상징을 다루는 색다른 스토리를 풀어나가는 인상적인 액션 어드벤처 게임                        |
 
 * 평점 분포
-![스팀 리뷰 평점 평균](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/9bfcbe83-4ec9-4353-adb4-2d514842ea77)
+![평점 평균](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/4da4f180-c603-4bc2-a691-242e54b3ec4f)
 * 리뷰 문장의 길이
  
 | 최솟값 | 최대값  | 평균  |
