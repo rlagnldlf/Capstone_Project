@@ -20,6 +20,7 @@ https://github.com/danmadeira/simple-icon-badges
 스팀은 세계 최대 규모의 전자 소프트웨어 유통망으로, 스팀 클라이언트를 통해 게임을 구입하고 관리할 수 있으며, 다양한 커뮤니티 기능을 통해 다른 유저들과 소통할 수 있습니다. 스팀에는 약 5만 개가 넘는 게임들이 있으며  [[2](https://www.pcgamesn.com/steam/total-games)] 2019년 발표된 자료에 의하면 가입 계정이 10억 개 [[3](https://www.thegamer.com/steam-1-billion-users/)]를 돌파했고, 2021년에는 월 평균 사용자 1억 3,200만 명을 기록[[4](https://store.steampowered.com/news/group/4145017/view/3133946090937137590)]한 명실상부한 ESD 업계의 1인자입니다.
 FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에서 게임 세계를 바라보며, 총기를 사용하여 적을 격파하고 임무를 수행하는 게임 장르입니다.
 이번 프로젝트에서는 2017년까지 스팀의 FPS 장르 게임 중 리뷰 데이터가 두 번째, 세 번째, 네 번째로 많은 게임들의 리뷰 데이터를 분석하여, 리뷰 내용과 평점을 기반으로 긍정적 또는 부정적인지를 예측하는 인공지능 모델을 개발하는 것이 목표입니다.
+![Graph about number of games on Steam](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/3d01467d-9bba-4586-8dcb-b3fb15956c6d)
 ## 2. 데이터
 ### 2.1 원시 데이터
 [[Steam Reviews 데이터셋](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)]
