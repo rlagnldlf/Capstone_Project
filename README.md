@@ -36,6 +36,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 
 ### 2.11 리뷰 개수 순서대로 게임 50개 (초록색은 FPS장르)
 ![인기게임 50개 리뷰 순서(초록색은 FPS장르)](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/6cfdf1da-ce33-4f32-b2f2-72e3d2cd0dc4)
+표를 보면 리뷰가 많은 순으로 정렬되어 있으며, 초록색으로 표시된 데이터는 FPS 장르에 속하는 게임입니다. 이를 통해 인기 게임 중 FPS 장르의 비율이 상당히 높은 것을 확인할 수 있습니다.
 
 ### 2.2 추출한 데이터
 스팀의 FPS 장르 게임 중 리뷰 데이터가 두 번째, 세 번째, 네 번째로 많은 게임(Left 4 Dead 2, Grand Theft Auto V, Robocraft) 3개의 리뷰데이터 134950개
