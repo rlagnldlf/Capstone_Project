@@ -52,6 +52,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 
 * 평점 분포
 ![평점 평균](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/4da4f180-c603-4bc2-a691-242e54b3ec4f)
+리뷰 데이터의 평점은 0점부터 5점까지의 분포를 가지며, 이를 평균화한 표입니다. 사용자들이 대체로 긍정적인 리뷰를 작성하는 경향이 있습니다.
 * 리뷰 문장의 길이
  
 | 최솟값 | 최대값  | 평균  |
