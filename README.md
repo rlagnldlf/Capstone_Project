@@ -37,6 +37,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 ### 2.2 데이터 부가 정보
 ![인기게임 50개 리뷰 순서(초록색은 FPS장르)](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/6cfdf1da-ce33-4f32-b2f2-72e3d2cd0dc4)
 리뷰가 많은 순으로 정렬되어 있으며, 초록색으로 표시된 데이터는 FPS 장르에 속하는 게임이다. 이로 인해, 인기 게임 중 FPS 장르의 비율이 상당히 높다는 사실을 확인할 수 있다."
+* 리뷰 문장의 길이
 | 최솟값 | 최대값  | 평균  |
 |-----|------|-----|
 | 1 | 8000 | 255 |
@@ -59,7 +60,6 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 * 평점 분포
 ![평점평균](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/b66bdb2f-2a6d-401b-b97c-00ef6d92d91f)
 리뷰 데이터의 평점은 0점부터 5점까지의 분포를 가지며, 이를 평균화한 표이다. 사용자들이 대체로 긍정적인 리뷰를 작성하는 경향이 있다.
-* 리뷰 문장의 길이
 
 ## 3. 학습 데이터
 
