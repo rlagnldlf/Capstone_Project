@@ -51,7 +51,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 | Robocraft  | 플레이어 자신만의 전투 로봇을 설계하고 다른 플레이어와의 전투에서 사용하는 건설 및 전투 게임             |
 
 * 평점 분포
-![평점 평균](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/4da4f180-c603-4bc2-a691-242e54b3ec4f)
+![평점평균](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/2d99a3cc-53a9-48c2-ad89-9d29d79acede)
 리뷰 데이터의 평점은 0점부터 5점까지의 분포를 가지며, 이를 평균화한 표입니다. 사용자들이 대체로 긍정적인 리뷰를 작성하는 경향이 있습니다.
 * 리뷰 문장의 길이
  
