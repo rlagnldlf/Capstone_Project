@@ -59,6 +59,8 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 |-----|------|-----|
 | 1 | 8000 | 255 |
 
+![리뷰 길이에 따른 개수](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/95c197ad-fa45-4517-a176-ba1c556e3428)
+
 ## 3. 학습 데이터
 
 ## 4. MobileBert 학습 결과
