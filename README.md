@@ -57,7 +57,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 | Killing Floor  | 플레이어가 좀비와 싸워 생존하는 협동적인 게임으로, 플레이어들은 팀을 이루어 각종 무장한 좀비들을 처치하고, 라운드를 클리어하며 생존.             |
 
 * 평점 분포
-![평점평균](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/2d99a3cc-53a9-48c2-ad89-9d29d79acede)
+![평점평균](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/b66bdb2f-2a6d-401b-b97c-00ef6d92d91f)
 리뷰 데이터의 평점은 0점부터 5점까지의 분포를 가지며, 이를 평균화한 표이다. 사용자들이 대체로 긍정적인 리뷰를 작성하는 경향이 있다.
 * 리뷰 문장의 길이
 
