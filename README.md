@@ -40,7 +40,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 
 ### 2.2 추출한 데이터
 스팀의 FPS 장르 게임 중 리뷰 데이터가 두 번째, 세 번째, 네 번째로 많은 게임(Left 4 Dead 2, Grand Theft Auto V, Robocraft) 3개의 리뷰데이터 134950개
-![각 게임당 리뷰 개수](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/5bd78c71-4bb1-49a4-b48c-6837827b2716)
+![각 게임당 리뷰 개수](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/d4b87ccd-fd45-49b2-8f39-be508d31a142)
 ### 2.3 추출한 데이터에 대한 탐색적 데이터 분석
 * 게임 설명
 
