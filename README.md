@@ -45,7 +45,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 리뷰 길이가 상대적으로 짧은 리뷰가 대다수를 차지하며, 매우 긴 리뷰는 적어 대부분의 사용자가 짧고 간결한 리뷰를 작성한다는 것을 의미한다. 그러나 몇몇 사용자는 자세하고 긴 리뷰를 작성하는 경우도 있다.
 
 ### 2.3 추출한 데이터
-스팀의 FPS 좀비 게임 중 리뷰 데이터가 가장 많은 게임(Left 4 Dead 2, 7 Days to Die, Killing Floor) 3개의 리뷰데이터 98067개
+스팀의 FPS 좀비 게임 중 리뷰 데이터가 가장 많은 게임(Left 4 Dead 2, 7 Days to Die, Killing Floor) 3개의 리뷰데이터 중 리뷰 길이가 20자 이상 500자 이하인 데이터 85,401개
 ![각 게임당 리뷰 개수](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/d4b87ccd-fd45-49b2-8f39-be508d31a142)
 ### 2.4 추출한 데이터에 대한 탐색적 데이터 분석
 * 게임 설명
