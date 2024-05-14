@@ -48,7 +48,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 
 ### 2.3 추출한 데이터
 스팀의 FPS 좀비 게임 중 리뷰 데이터가 가장 많은 게임(Left 4 Dead 2, 7 Days to Die, Killing Floor) 3개의 리뷰데이터 중 리뷰 길이가 20자 이상 500자 이하인 데이터 85,401개
-![각 게임당 리뷰 개수](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/c7c371f9-a3c9-47ec-8197-003484ed8520)
+![각 게임당 리뷰 개수](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/2641c3a1-7acb-4c5a-aa91-ae4ddfb27dc8)
 ### 2.4 추출한 데이터에 대한 탐색적 데이터 분석
 * 게임 설명
 
@@ -59,7 +59,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 | Killing Floor  | 플레이어가 좀비와 싸워 생존하는 협동적인 게임으로, 플레이어들은 팀을 이루어 각종 무장한 좀비들을 처치하고, 라운드를 클리어하며 생존.             |
 
 * 평점 분포
-![긍부정에 따른 리뷰 개수 분포](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/6bad793d-ba42-4b2a-9b73-80804d606f72)
+![긍부정에 따른 리뷰 개수 분포](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/48b8a834-857d-4cf1-8155-e5692a164d20)
 긍정과 부정의 개수 분포를 시각화한 표이다. 사용자들이 대체로 긍정적인 리뷰를 작성하는 경향이 있다.
 
 ## 3. 학습 데이터
