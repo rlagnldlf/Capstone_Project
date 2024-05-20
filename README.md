@@ -69,7 +69,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 
 | Left 4 Dead 2 | Killing Floor  | Doom  |
 
-| Left 4 Dead 2 |   | Doom  |  |  Killing Floor |  |
+| Left 4 Dead 2 |               |  Doom   |       |   Killing Floor |               |
 | ------ | ------ | ------ |------ | ------ | ------ |
 | 긍정 | 부정 | 긍정 | 부정 | 긍정 | 부정 |
 | 500 | 500 | 500 | 500 | 500 | 500 |
