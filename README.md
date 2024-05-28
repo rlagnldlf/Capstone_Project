@@ -107,7 +107,8 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 ![에폭 밸리](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/7a2b4a5a-5c96-4fa8-9e10-5954c468a296)
 
 ### 4.21 첫 번째 학습 모델 원본 모델에 적용한 결과
-![버트 테스트 풀 캡쳐](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/9f5aff48-7625-4f8d-88a7-846dad4288b3)
-### 4.22 두 번째 학습 모델 원본 모델에 적용한 결과
+![버트 스팀 결과](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/3216427b-100f-484d-b98f-9f94647aec0d)
 
+### 4.22 두 번째 학습 모델 원본 모델에 적용한 결과
+![두번째 버트테스트 풀](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/1895c206-a09e-4c01-adb1-6f1f9646669e)
 ## 5. 느낀점 및 배운점
