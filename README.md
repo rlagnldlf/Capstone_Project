@@ -106,5 +106,6 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 | Validation accuracy | 0.76 | 0.89 | 0.87 | 0.89 |
 
 ![에포치에 따른 트레이닝 로스](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/2e21094b-fffe-4326-ab53-3d9a5eee3804)
+![에폭수에 따른 정확도 변화](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/db065321-1cde-4894-89d7-bfa351edee9d)
 
 ## 5. 느낀점 및 배운점
