@@ -105,4 +105,6 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 | training loss | 1.3910e+4 | 0.32 | 0.23 | 0.36 |
 | Validation accuracy | 0.76 | 0.89 | 0.87 | 0.89 |
 
+![에포치에 따른 트레이닝 로스](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/2e21094b-fffe-4326-ab53-3d9a5eee3804)
+
 ## 5. 느낀점 및 배운점
