@@ -95,7 +95,9 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 | loss | 7.4573e+4 | 0.59 | 0.25 | 0.23 |
 | accuracy | 0.84 | 0.86 | 0.86 | 0.87 |
 
-### 4.11 첫 번째 학습 모델 원본 모델에 적용한 결
+### 4.11 첫 번째 학습 모델 원본 모델에 적용한 결과
+![버트 테스트 풀 캡쳐](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/9f5aff48-7625-4f8d-88a7-846dad4288b3)
+
 
 ### 4.2 두 번째 학습 데이터
 | step | 0  | 1  | 2  | 3  |
