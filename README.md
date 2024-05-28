@@ -102,9 +102,9 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 | Validation accuracy | 0.76 | 0.89 | 0.87 | 0.89 |
 
 ### 4.13 첫 번째 학습 데이터와 두 번째 학습 데이터 손실값 비교
-![에포치에 따른 트레이닝 로스](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/2e21094b-fffe-4326-ab53-3d9a5eee3804)
+![에폭 로스](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/2292c979-8758-4277-ac1e-87c998c0b661)
 ### 4.14 첫 번째 학습 데이터와 두 번째 학습 데이터 정확도 비교
-![에폭수에 따른 정확도 변화](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/db065321-1cde-4894-89d7-bfa351edee9d)
+![에폭 밸리](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/7a2b4a5a-5c96-4fa8-9e10-5954c468a296)
 
 ### 4.21 첫 번째 학습 모델 원본 모델에 적용한 결과
 ![버트 테스트 풀 캡쳐](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/9f5aff48-7625-4f8d-88a7-846dad4288b3)
