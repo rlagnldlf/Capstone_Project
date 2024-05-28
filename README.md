@@ -89,23 +89,25 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 
 ## 4. MobileBert 학습 결과
 
-### 4.1 첫 번째 학습 데이터
+### 4.11 첫 번째 학습 데이터
 | epoch | 0  | 1  | 2  | 3  |
 |-----|------|-----|------|-----|
 | training loss | 7.4573e+4 | 0.59 | 0.25 | 0.23 |
 | Validation accuracy | 0.84 | 0.86 | 0.86 | 0.87 |
 
-### 4.11 첫 번째 학습 모델 원본 모델에 적용한 결과
-![버트 테스트 풀 캡쳐](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/9f5aff48-7625-4f8d-88a7-846dad4288b3)
-
-
-### 4.2 두 번째 학습 데이터
+### 4.12 두 번째 학습 데이터
 | epoch | 0  | 1  | 2  | 3  |
 |-----|------|-----|------|-----|
 | training loss | 1.3910e+4 | 0.32 | 0.23 | 0.36 |
 | Validation accuracy | 0.76 | 0.89 | 0.87 | 0.89 |
 
+### 4.13 첫 번째 학습 데이터와 두 번째 학습 데이터 손실값 비교
 ![에포치에 따른 트레이닝 로스](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/2e21094b-fffe-4326-ab53-3d9a5eee3804)
+### 4.14 첫 번째 학습 데이터와 두 번째 학습 데이터 정확도 비교
 ![에폭수에 따른 정확도 변화](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/db065321-1cde-4894-89d7-bfa351edee9d)
+
+### 4.21 첫 번째 학습 모델 원본 모델에 적용한 결과
+![버트 테스트 풀 캡쳐](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/9f5aff48-7625-4f8d-88a7-846dad4288b3)
+### 4.22 두 번째 학습 모델 원본 모델에 적용한 결과
 
 ## 5. 느낀점 및 배운점
