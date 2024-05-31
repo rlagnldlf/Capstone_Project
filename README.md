@@ -106,12 +106,12 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 ### 4.14 첫 번째 학습 데이터와 두 번째 학습 데이터 정확도 비교
 ![에폭 밸리](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/7a2b4a5a-5c96-4fa8-9e10-5954c468a296)
 
-### 4.21 첫 번째 학습 모델 원본 모델에 적용한 결과
+### 4.21 첫 번째 학습 모델 원본 모델에 적용한 결과값
 ![버트 스팀 결과 1](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/7050c723-57d9-405e-87ea-44471fffbf1c)
 
 Total Accuracy는 0.89로 나왔다.
 
-### 4.22 두 번째 학습 모델 원본 모델에 적용한 결과
+### 4.22 두 번째 학습 모델 원본 모델에 적용한 결과값
 ![두번째 버트테스트 풀](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/dc28b5e6-3813-4e10-a691-3200f74e2427)
 
 Total Accuracy는 0.86로 나왔다.
