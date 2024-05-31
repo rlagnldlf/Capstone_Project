@@ -58,7 +58,8 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 | Killing Floor  | 플레이어들은 팀을 이루어 각종 무장한 좀비들을 처치하고 라운드를 클리어하며 생존하는 협동적인 게임.            |
 | Doom | 인간과 지옥 사이의 전쟁을 배경으로 한 격투를 통해 고통스럽게 공포에 가득 찬 환영적인 액션게임.                                |
 
-* 평점 분포![긍부정에 따른 리뷰 개수 분포](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/48b8a834-857d-4cf1-8155-e5692a164d20)
+* 평점 분포
+![긍부정에 따른 리뷰 개수 분포](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/48b8a834-857d-4cf1-8155-e5692a164d20)
 긍정과 부정의 개수 분포를 시각화한 표이다. 사용자들이 대체로 긍정적인 리뷰를 작성하는 경향이 있다.
 
 ## 3. 학습 데이터
