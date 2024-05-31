@@ -110,5 +110,5 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 ![버트 스팀 결과 1](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/7050c723-57d9-405e-87ea-44471fffbf1c)
 
 ### 4.22 두 번째 학습 모델 원본 모델에 적용한 결과
-![두번째 버트테스트 풀](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/1895c206-a09e-4c01-adb1-6f1f9646669e)
+![두번째 버트테스트 풀](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/dc28b5e6-3813-4e10-a691-3200f74e2427)
 ## 5. 느낀점 및 배운점
