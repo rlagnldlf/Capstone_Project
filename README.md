@@ -114,6 +114,8 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 ### 4.14 첫 번째 학습 데이터와 두 번째 학습 데이터 정확도 비교
 ![에폭 밸리](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/7a2b4a5a-5c96-4fa8-9e10-5954c468a296)
 
+첫 번째 모델은 초기 Training Loss가 높지만 빠르게 감소하여 안정된 성능을 보이고, Validation Accuracy도 점진적으로 증가한다. 두 번째 모델은 초기 Training Loss가 낮고 빠르게 학습하지만, 후반에 Training Loss가 증가하며 과적합의 징후를 보일 수 있다. 두 모델 모두 좋은 성능을 보이나, 첫 번째 모델이 더 안정적인 학습 과정을 가진다.
+
 ### 4.21 첫 번째 학습 모델 원본 모델에 적용한 결과값
 ![버트 스팀 결과 1](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/7050c723-57d9-405e-87ea-44471fffbf1c)
 
