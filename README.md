@@ -122,4 +122,6 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 ### 4.22 두 번째 학습 모델 원본 데이터에 적용한 결과값
 ![두번째 버트테스트 풀](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/dc28b5e6-3813-4e10-a691-3200f74e2427)
 
+첫 번째 모델은 학습 초기의 높은 Training Loss에도 불구하고, 학습 과정에서 빠르게 안정화되어 높은 Total Accuracy를 달성했다. 반면, 두 번째 모델은 초기 학습이 빠르지만 과적합의 징후를 보이며, 최종 Total Accuracy가 상대적으로 낮았다. 따라서 안정성과 성능을 고려했을 때, 첫 번째 모델이 더 나은 모델로 평가될 수 있다.
+
 ## 5. 느낀점 및 배운점
