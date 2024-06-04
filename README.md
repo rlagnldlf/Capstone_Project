@@ -1,4 +1,4 @@
-## MobileBERT를 활용한 스팀 FPS장르 인기게임 리뷰 분석 프로젝트
+## MobileBERT를 활용한 STEAM 게임 리뷰 분석 프로젝트 - 좀비물 FPS 게임을 중심으로
 <!--
 badge icon 참고 사이트
 https://github.com/danmadeira/simple-icon-badges
