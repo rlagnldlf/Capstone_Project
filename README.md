@@ -57,7 +57,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 | Doom | 인간과 지옥 사이의 전쟁을 배경으로 한 격투를 통해 고통스럽게 공포에 가득 찬 환영적인 액션게임.                                |
 
 * 평점 분포
-![긍부정에 따른 리뷰 개수 분포(수정)](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/b5d575a6-1a4d-4238-aa6d-dfa4a54d66cb)
+![긍부정에 따른 리뷰 개수 분포(수정)](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/221ac93e-c409-4ad3-975f-71c815624b13)
 긍정과 부정의 개수 분포를 시각화한 표이다. 사용자들이 대체로 긍정적인 리뷰를 작성하는 경향이 있다.
 
 ## 3. 학습 데이터
