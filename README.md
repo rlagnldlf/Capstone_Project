@@ -33,7 +33,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 2017년도까지 스팀게임의 리뷰를 담은 데이터이다. 평점은 긍정을 1로, 부정을 -1로 표시하며, 총 9364개의 게임에는 640만개의 리뷰 데이터가 있다.
 
 ### 2.2 데이터 부가 정보
-![인기게임 50개 리뷰 순서(초록색은 FPS장르)](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/6cfdf1da-ce33-4f32-b2f2-72e3d2cd0dc4)
+![상위 50개 게임 리뷰 개수](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/65e53908-627e-42b2-9425-06d4fca89d8f)
 리뷰가 많은 순으로 정렬되어 있으며, 초록색으로 표시된 데이터는 FPS 장르에 속하는 게임이다. 이로 인해, 인기 게임 중 FPS 장르의 비율이 상당히 높다는 사실을 확인할 수 있다."
 * 리뷰 문장의 길이
   
@@ -41,7 +41,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 |-----|------|-----|
 | 1 | 8000 | 255 |
 
-![리뷰 길이에 따른 개수](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/0628745c-d325-4b80-b559-b679caa43eba)
+![리뷰의 길이에 따른 개수(수정)](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/dd809481-2564-4e4d-8a72-762cfc170659)
 리뷰 길이가 상대적으로 짧은 리뷰가 대다수를 차지하며, 매우 긴 리뷰는 적어 대부분의 사용자가 짧고 간결한 리뷰를 작성한다는 것을 의미한다. 그러나 몇몇 사용자는 자세하고 긴 리뷰를 작성하는 경우도 있다.
 
 ### 2.3 추출한 데이터
