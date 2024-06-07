@@ -46,7 +46,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 
 ### 2.3 추출한 데이터
 스팀의 FPS 좀비 게임 중 리뷰 데이터가 가장 많은 게임(Left 4 Dead 2, Killing Floor, Doom) 3개의 리뷰데이터 중 리뷰 길이가 20자 이상 500자 이하인 데이터 75,409개
-![각 게임당 리뷰 개수](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/2641c3a1-7acb-4c5a-aa91-ae4ddfb27dc8)
+![각 게임당 리뷰 개수(수정)](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/580fe958-4c40-4a95-bd50-7508023019a5)
 ### 2.4 추출한 데이터에 대한 탐색적 데이터 분석
 * 게임 설명
 
