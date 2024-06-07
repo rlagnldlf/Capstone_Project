@@ -73,6 +73,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 | 500 | 500 | 500 | 500 | 500 | 500 |
 
 * 데이터 비율 분포
+
 ![원그1](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/10e4500e-0bb6-4cdc-984b-840ee89f120c)
 
 ### 3.2 두 번째 학습 데이터
