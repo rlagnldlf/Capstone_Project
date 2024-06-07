@@ -74,7 +74,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 
 * 데이터 비율 분포
 
-![원그1](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/10e4500e-0bb6-4cdc-984b-840ee89f120c)
+![원그1](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/caf0edcb-9363-4379-a497-9fc0117b01f8)
 
 ### 3.2 두 번째 학습 데이터
 두 번째 학습 데이터는 데이터 양 비율에 따라 Left 4 Dead 2는 긍정 리뷰 데이터 839개와 부정 리뷰 데이터 839개, Killing Floor는 긍정 리뷰 데이터 361개와 부정 리뷰 데이터 361개, Doom은 긍정 리뷰 데이터 300개와 부정 리뷰 데이터 300개로, 총 3000개를 추출하여 만들었다.
@@ -87,7 +87,7 @@ FPS는 First Person Shooter의 약자로, 플레이어가 주인공의 시점에
 
 * 데이터 비율 분포
  
-![원그2](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/4a3228ae-e418-4e8f-a5a2-7151b208ce75)
+![원그2](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/5dd892eb-6d63-45b7-95f8-29173e55101a)
 
 ## 4. MobileBert 학습 결과
 ### 개발환경
