@@ -23,8 +23,8 @@ https://github.com/danmadeira/simple-icon-badges
 
 ## 2. 데이터
 ### 2.1 원시 데이터
-[[Steam Reviews 데이터셋](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)]
 640만 개의 리뷰 데이터를 보유하고 있으며, 각 리뷰는 5개의 데이터로 구성되어 있다.
+[[Steam Reviews 데이터셋](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)]
 
 * 데이터 구성
 
