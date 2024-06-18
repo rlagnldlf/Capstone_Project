@@ -53,7 +53,6 @@ https://github.com/danmadeira/simple-icon-badges
 
 ### 2.2 좀비물 FPS 데이터 (탐색적 데이터 분석 포함)
 스팀의 FPS 좀비 게임 중 리뷰 데이터가 가장 많은 Left 4 Dead 2, Killing Floor, Doom 세 개의 게임에서 리뷰 길이가 20자 이상 500자 이하인 데이터 75,409개를 추출하였다.
-![각 게임당 리뷰 개수(수정)](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/580fe958-4c40-4a95-bd50-7508023019a5)
 * 게임 설명
 
 | 게임 이름  | 설명                                                                                  |
@@ -62,9 +61,13 @@ https://github.com/danmadeira/simple-icon-badges
 | Killing Floor  | 플레이어들은 팀을 이루어 각종 무장한 좀비들을 처치하고 라운드를 클리어하며 생존하는 협동적인 게임.            |
 | Doom | 인간과 지옥 사이의 전쟁을 배경으로 한 격투를 통해 고통스럽게 공포에 가득 찬 환영적인 액션게임.                                |
 
-* 평점 분포
-![긍부정에 따른 리뷰 개수 분포(수정)](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/221ac93e-c409-4ad3-975f-71c815624b13)
-긍정과 부정의 개수 분포를 시각화한 표이다. 사용자들이 대체로 긍정적인 리뷰를 작성하는 경향이 있다.
+<img width="1157" alt="합1" src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/0b25e5cf-f9ad-4862-97db-eeaaeaab76b0">
+
+Left 4 Dead 2, Killing Floor, Doom 각각의 리뷰 데이터는 다음과 같다.
+* Left 4 Dead 2: 42,184개 (긍정 리뷰: 39,158, 부정 리뷰: 3,006)
+* Killing Floor: 18,157개 (긍정 리뷰: 17,514, 부정 리뷰: 653)
+* Doom: 15,078개 (긍정 리뷰: 13,923, 부정 리뷰: 1,155)
+세 게임 모두 긍정적인 리뷰가 압도적으로 많아 유저들에게 크게 호평받고 있음을 알 수 있다.
 
 ## 3. 학습 데이터
 ### 3.1 첫 번째 학습 데이터
