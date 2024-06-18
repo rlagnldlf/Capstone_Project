@@ -3,9 +3,9 @@
 badge icon 참고 사이트
 https://github.com/danmadeira/simple-icon-badges
 -->
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" /><img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
+<p align="center"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" /><img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" /><p>
 
-![스팀 이미지](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/e65af0a2-63d4-4056-a03b-56e586b53ed1)
+<p align="center">![스팀 이미지](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/e65af0a2-63d4-4056-a03b-56e586b53ed1)<p>
 
 ## 1. 개 요
 
@@ -14,7 +14,7 @@ https://github.com/danmadeira/simple-icon-badges
 그 중에서 게임 시장의 중심에 있는 스팀은 세계 최대 규모의 전자 소프트웨어 유통망으로, 스팀 클라이언트를 통해 게임을 구입하고 관리할 수 있으며, 다양한 커뮤니티 기능을 통해 다른 유저들과 소통할 수 있다. 스팀에는 약 5만 개가 넘는 게임들이 있으며,  [[2](https://www.pcgamesn.com/steam/total-games)] 2019년 발표된 자료에 의하면 가입 계정이 10억 개 [[3](https://www.thegamer.com/steam-1-billion-users/)]를 돌파했고, 2021년에는 월 평균 사용자 1억 3,200만 명을 기록[[4](https://store.steampowered.com/news/group/4145017/view/3133946090937137590)]한 명실상부한 전자 소프트웨어 유통망 업계의 1인자로 게임 리뷰가 가장 활발하게 일어나는 곳이다.
 게임 리뷰는 게임 구매 결정에 큰 영향을 미치는 중요한 요소 중 하나로, 사용자 리뷰는 개인적인 경험을 기반으로 한다. 이러한 리뷰는 사용자들 간의 소통을 촉진하고 게임에 대한 정보를 공유하는 데 도움을 준다. 긍정적인 리뷰는 마케팅 효과에도 도움이 되며, 게임 개발자들은 리뷰를 통해 자신의 게임에 대한 피드백을 받아 게임을 개선하고 향상시킬 수 있다.
 ### 스팀 리뷰 이미지와 2004년부터 2021년까지 연간 스팀게임 출시 개수
-<p align="center"><img width="782" alt="합1" src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/2385d5cf-de45-4cd1-9234-cd118a615d0b"><p>
+<p align="center"><img width="780" alt="합1" src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/c5b3eccc-cbf6-465b-ba6a-84427c9f2cb5"><p>
 
 스팀은 2010년대 초반까지는 게임 출시량이 적었으나, 2010년대 중반부터 급격히 증가하여 2021년에는 연간 게임 출시량이 1만 개가 넘을 정도로 크게 성장했다.
 
