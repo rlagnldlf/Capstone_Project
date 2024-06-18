@@ -99,22 +99,15 @@ Left 4 Dead 2, Killing Floor, Doom 각각의 리뷰 데이터는 다음과 같�
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" /><img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" /><img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 
 
-### 4.11 첫 번째 학습 데이터
-| epoch | 0  | 1  | 2  | 3  |
-|-----|------|-----|------|-----|
-| training loss | 7.4573e+4 | 0.59 | 0.25 | 0.23 |
-| Validation accuracy | 0.84 | 0.86 | 0.86 | 0.87 |
+### 4.11 학습 결과
+| 첫 번째 학습 데이터| epoch | 0  | 1  | 2  | 3  |두 번째 학습 데이터| epoch | 0  | 1  | 2  | 3  |
+|-----|-----|------|-----|------|-----|-----|------|-----|------|-----|-----|
+| | training loss | 7.4573e+4 | 0.59 | 0.25 | 0.23 | |training loss | 1.3910e+4 | 0.32 | 0.23 | 0.36 |
+| | Validation accuracy | 0.84 | 0.86 | 0.86 | 0.87 | |Validation accuracy | 0.76 | 0.89 | 0.87 | 0.89 |
 
-### 4.12 두 번째 학습 데이터
-| epoch | 0  | 1  | 2  | 3  |
-|-----|------|-----|------|-----|
-| training loss | 1.3910e+4 | 0.32 | 0.23 | 0.36 |
-| Validation accuracy | 0.76 | 0.89 | 0.87 | 0.89 |
 
-### 4.13 첫 번째 학습 데이터와 두 번째 학습 데이터 손실값 비교
-![TL](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/f8f8d2fe-423e-4f19-81f3-8e0248b3bf9b)
-### 4.14 첫 번째 학습 데이터와 두 번째 학습 데이터 정확도 비교
-![VA](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/34b30d89-dd8a-4dc8-988d-2bb9e7356cd3)
+### 4.12 두 데이터의 에포크(epoch)별 손실값과 정확도
+<p align="center"><img width="1076" alt="합1" src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/d7112ac6-b40e-488b-80ff-d17b55bce928"><p>
 
 첫 번째 모델은 초기 Training Loss가 높지만 빠르게 감소하여 안정된 성능을 보이고, Validation Accuracy도 점진적으로 증가한다. 두 번째 모델은 초기 Training Loss가 낮고 빠르게 학습하지만, 후반에 Training Loss가 증가하며 과적합의 징후를 보일 수 있다. 두 모델 모두 좋은 성능을 보이나, 첫 번째 모델이 더 안정적인 학습 과정을 가진다.
 
