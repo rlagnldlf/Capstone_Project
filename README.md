@@ -5,7 +5,8 @@ https://github.com/danmadeira/simple-icon-badges
 -->
 <p align="center"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" /><img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" /><p>
 
-<p align="center">![스팀 이미지](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/e65af0a2-63d4-4056-a03b-56e586b53ed1)<p>
+<p align="center"><img src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/e65af0a2-63d4-4056-a03b-56e586b53ed1" alt="스팀 이미지"></p>
+
 
 ## 1. 개 요
 
@@ -23,7 +24,7 @@ https://github.com/danmadeira/simple-icon-badges
 
 ## 2. 데이터
 ### 2.1 원시 데이터
-640만 개의 리뷰 데이터를 보유하고 있으며, 각 리뷰는 5개의 데이터로 구성되어 있다.
+640만 개의 리뷰 데이터와 5개의 열로 구성된 데이터셋을 보유하고 있다.
 [[Steam Reviews 데이터셋](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)]
 
 * 데이터 구성
@@ -37,6 +38,9 @@ https://github.com/danmadeira/simple-icon-badges
 * 상위 50개 게임의 리뷰 개수
 ![상위 50개 게임 리뷰 개수](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/65e53908-627e-42b2-9425-06d4fca89d8f)
 리뷰가 많은 순으로 정렬되어 있으며, 회색으로 표시된 데이터는 FPS 장르에 속하는 게임이다. 이로 인해, 인기 게임 중 FPS 장르의 비율이 상당히 높다는 사실을 확인할 수 있다."
+
+* 상위 20개 게임의 이름과 장르
+  
 
 * 리뷰 문장의 길이
   
