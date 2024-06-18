@@ -72,7 +72,7 @@ Left 4 Dead 2, Killing Floor, Doom 각각의 리뷰 데이터는 다음과 같�
 
 세 게임 모두 긍정적인 리뷰가 압도적으로 많아 유저들에게 크게 호평받고 있음을 알 수 있다.
 
-## 3. 첫 번째 학습 데이터                       두 번째 학습 데이터
+## 3. 학습 데이터
 첫 번째 학습 데이터는 각 게임당 긍정 리뷰 500개와 부정 리뷰 500개씩, 총 3000개의 데이터를 추출하여 만들었고 두 번째 학습 데이터는 각 게임의 리뷰 데이터 비율에 따라 Left 4 Dead 2는 긍정 리뷰 839개와 부정 리뷰 839개, Killing Floor는 긍정 리뷰 361개와 부정 리뷰 361개, Doom은 긍정 리뷰 300개와 부정 리뷰 300개로, 총 3000개의 데이터를 추출하여 만들었다.
 * 각 게임당 데이터 개수
 
@@ -84,10 +84,10 @@ Left 4 Dead 2, Killing Floor, Doom 각각의 리뷰 데이터는 다음과 같�
 |  | 500 | 500 | 500 | 500 | 500 | 500 |  | 839 | 839 | 300 | 300 | 361 | 361 |
 
 * 데이터 비율 분포
+  
+<p align="center"><img width="673" alt="합1" src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/4bf86b33-d539-499b-a06f-e09b6416207c"><p>
 
-![원그1](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/c893d646-2d15-4355-aa12-10fc546aec73)
- 
-![원그2](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/6cac7d1d-8273-4355-b8c5-4a455d6ad256)
+
 
 ## 4. MobileBert 학습 결과
 ### 개발환경
