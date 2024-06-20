@@ -18,6 +18,7 @@ https://github.com/danmadeira/simple-icon-badges
 <p align="center"><img width="780" alt="합1" src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/c5b3eccc-cbf6-465b-ba6a-84427c9f2cb5"><p>
 
 사용자는 좋아요(긍정), 싫어요(부정)를 클릭하여 자신의 감정을 표현하고, 리뷰를 남기면 다른 사용자들도 의견을 공유할 수 있다.
+
 스팀은 2010년대 초반까지는 게임 출시량이 적었으나, 2010년대 중반부터 급격히 증가하여 2021년에는 연간 게임 출시량이 1만 개가 넘을 정도로 크게 성장했다.
 
 ### 1.2 좀비물 FPS
@@ -65,6 +66,7 @@ https://github.com/danmadeira/simple-icon-badges
 
 ![완료](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/5580086f-ba97-4d85-89da-345f74d1fdc6)
 리뷰 길이가 상대적으로 짧은 리뷰가 대다수를 차지하며, 매우 긴 리뷰는 적어 대부분의 사용자가 짧고 간결한 리뷰를 작성한다는 것을 의미한다. 그러나 몇몇 사용자는 자세하고 긴 리뷰를 작성하는 경우도 있다.
+
 사용자들의 만족도는 긍정적인 비율이 5:1로 나타나고 있어, 이는 사용자들이 주로 게임에 대해 긍정적인 평가를 내리고 있음을 시사한다.
 
 ### 2.2 좀비물 FPS 데이터 (탐색적 데이터 분석 포함)
