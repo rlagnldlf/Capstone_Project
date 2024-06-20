@@ -17,6 +17,7 @@ https://github.com/danmadeira/simple-icon-badges
 ### 스팀 리뷰 이미지와 2004년부터 2021년까지 연간 스팀게임 출시 개수
 <p align="center"><img width="780" alt="합1" src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/c5b3eccc-cbf6-465b-ba6a-84427c9f2cb5"><p>
 
+사용자는 좋아요(긍정), 싫어요(부정)를 클릭하여 자신의 감정을 표현하고, 리뷰를 남기면 다른 사용자들도 의견을 공유할 수 있다.
 스팀은 2010년대 초반까지는 게임 출시량이 적었으나, 2010년대 중반부터 급격히 증가하여 2021년에는 연간 게임 출시량이 1만 개가 넘을 정도로 크게 성장했다.
 
 ### 1.2 좀비물 FPS
