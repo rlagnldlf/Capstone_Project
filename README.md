@@ -39,10 +39,22 @@ https://github.com/danmadeira/simple-icon-badges
 ![상위 50개 게임 리뷰 개수](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/65e53908-627e-42b2-9425-06d4fca89d8f)
 리뷰가 많은 순으로 정렬되어 있으며, 회색으로 표시된 데이터는 FPS 장르에 속하는 게임이다. 이로 인해, 인기 게임 중 FPS 장르의 비율이 상당히 높다는 사실을 확인할 수 있다."
 
-* 상위 20개 게임의 이름과 장르
-| 첫 번째 학습 데이터 | Left 4 Dead 2 |               |  Doom   |       |   Killing Floor |               |두 번째 학습 데이터 | Left 4 Dead 2 |               |  Doom   |       |   Killing Floor |               |
-| ------ | ------ | ------ | ------ |------ | ------ | ------ | ------ | ------ | ------ | ------ |------ | ------ | ------ |
-|  | 긍정 | 부정 | 긍정 | 부정 | 긍정 | 부정 |  | 긍정 | 부정 | 긍정 | 부정 | 긍정 | 부정 |
+* 상위 20개의 게임의 이름과 장르
+
+| 순위 | 게임 이름 | 게임 장르 |  순위   |  게임 이름 | 게임 장르 |
+| ------ | ------ | ------ | ------ |------ | ------ |
+| 1 | PAYDAY 2    | FPS| 11 | Robocraft    | TPS |
+| 2 | DayZ  | Survival | 12 |Starbound | Action Adventure |
+| 3 | Terraria       | Action Adventure | 13 | Portal 2    | Puzzel |
+| 4 | Rust        | Survival | 14 |Space Engineers  | Survival |
+| 5 | Dota 2        | ARTS | 15 | Fallout: New Vegas | ARPG |
+| 6 | Rocket League  |Racing  | 16 | Arma 3  | FPS |
+| 7 | Undertale       |RPG  | 17 | The Witcher 3: Wild Hunt | RPG |
+| 8 | Left 4 Dead 2    | FPS | 18 | Heroes & Generals  | MMOFPS |
+| 9 | Warframe         |TPS  | 19 | BioShock Infinite   | FPS |
+| 10 | Grand Theft Auto V   | FPS | 20 |The Forest   | Survival |
+
+상위 20개의 게임 중에서 FPS 장르 게임은 5개, Survival 장르 게임 4개로 두 장르가 주를 이루고 있다.
 
 * 리뷰 문장의 길이
   
