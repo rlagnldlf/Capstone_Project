@@ -62,8 +62,9 @@ https://github.com/danmadeira/simple-icon-badges
 |-----|------|-----|
 | 1 | 8000 | 255 |
 
-![리뷰의 길이에 따른 개수(수정)](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/dd809481-2564-4e4d-8a72-762cfc170659)
+![완료](https://github.com/rlagnldlf/Capstone_Project/assets/136410965/5580086f-ba97-4d85-89da-345f74d1fdc6)
 리뷰 길이가 상대적으로 짧은 리뷰가 대다수를 차지하며, 매우 긴 리뷰는 적어 대부분의 사용자가 짧고 간결한 리뷰를 작성한다는 것을 의미한다. 그러나 몇몇 사용자는 자세하고 긴 리뷰를 작성하는 경우도 있다.
+사용자들의 만족도는 긍정적인 비율이 5:1로 나타나고 있어, 이는 사용자들이 주로 게임에 대해 긍정적인 평가를 내리고 있음을 시사한다.
 
 ### 2.2 좀비물 FPS 데이터 (탐색적 데이터 분석 포함)
 스팀의 FPS 좀비 게임 중 리뷰 데이터가 가장 많은 Left 4 Dead 2, Killing Floor, Doom 세 개의 게임에서 리뷰 길이가 20자 이상 500자 이하인 데이터 75,409개를 추출하였다.
