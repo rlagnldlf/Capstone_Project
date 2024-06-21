@@ -5,12 +5,16 @@ https://github.com/danmadeira/simple-icon-badges
 -->
 <p align="center"><img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" /><img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" /><p>
 
-<p align="center"><img src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/e65af0a2-63d4-4056-a03b-56e586b53ed1" alt="스팀 이미지"></p>
 
 
 ## 1. 개 요
 
-### 1.1 게임 리뷰의 영향력과 STEAM
+### 1.1 문제정의
+게임 리뷰는 개선 사항을 파악하고 커뮤니티 형성을 촉진하는 중요한 역할을 하며, 긍정적인 리뷰는 게임의 마케팅 효과를 높이고 인기를 증진시키는 반면, 부정적인 리뷰는 그 반대의 효과를 가져와 구매 결정에 큰 영향을 미친다. 이 프로젝트는 게임 리뷰와 평점을 기반으로 긍정과 부정을 예측하는 인공지능 모델을 개발하려고 한다.
+
+<p align="center"><img src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/e65af0a2-63d4-4056-a03b-56e586b53ed1" alt="스팀 이미지"></p>
+
+### 1.2 게임 리뷰의 영향력과 STEAM
 1970년대 후반부터 1980년대 초반에는 게임 기업들이 컴퓨터 및 비디오 게임 시장에서 주목할 만한 성과를 거두며 게임 산업을 크게 성장시켰다. 이후 1990년대에는 개인용 컴퓨터와 게임 콘솔의 보급으로 게임 산업이 더욱 확대되었으며, 온라인 게임 및 모바일 게임의 등장으로 시장은 더욱 커져 현재는 전 세계적으로 게임이 큰 산업으로 자리 잡았으며 또한 문화의 일부로 인식되고 있다.[[1](https://news.samsung.com/kr/스페셜-리포트-게임-현대인의-문화가-되다)]
 그 중에서 게임 시장의 중심에 있는 스팀은 세계 최대 규모의 전자 소프트웨어 유통망으로, 스팀 클라이언트를 통해 게임을 구입하고 관리할 수 있으며, 다양한 커뮤니티 기능을 통해 다른 유저들과 소통할 수 있다. 스팀에는 약 5만 개가 넘는 게임들이 있으며,  [[2](https://www.pcgamesn.com/steam/total-games)] 2019년 발표된 자료에 의하면 가입 계정이 10억 개 [[3](https://www.thegamer.com/steam-1-billion-users/)]를 돌파했고, 2021년에는 월 평균 사용자 1억 3,200만 명을 기록[[4](https://store.steampowered.com/news/group/4145017/view/3133946090937137590)]한 명실상부한 전자 소프트웨어 유통망 업계의 1인자로 게임 리뷰가 가장 활발하게 일어나는 곳이다.
 게임 리뷰는 게임 구매 결정에 큰 영향을 미치는 중요한 요소 중 하나로, 사용자 리뷰는 개인적인 경험을 기반으로 한다. 이러한 리뷰는 사용자들 간의 소통을 촉진하고 게임에 대한 정보를 공유하는 데 도움을 준다. 긍정적인 리뷰는 마케팅 효과에도 도움이 되며, 게임 개발자들은 리뷰를 통해 자신의 게임에 대한 피드백을 받아 게임을 개선하고 향상시킬 수 있다.
@@ -21,7 +25,7 @@ https://github.com/danmadeira/simple-icon-badges
 
 스팀은 2010년대 초반까지는 게임 출시량이 적었으나, 2010년대 중반부터 급격히 증가하여 2021년에는 연간 게임 출시량이 1만 개가 넘을 정도로 크게 성장했다.
 
-### 1.2 좀비물 FPS
+### 1.3 좀비물 FPS
 이번 프로젝트에서는 스팀에 수록된 좀비물 FPS 게임 리뷰를 대상으로 긍부정 인공지능 모델을 개발하고자 한다. FPS 게임은 1인칭 시점에서 원거리 무기(예: 총)를 사용해 빠른 반응 속도와 전략을 요구하는 몰입감 높은 액션 게임으로, 가장 쉽게 접할 수 있는 장르이다. 특히 좀비물 FPS는 협동을 통해 좀비와 싸우며 생존하는 매력을 지니고 있다.
 
 ## 2. 데이터
