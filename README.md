@@ -26,7 +26,7 @@ https://github.com/danmadeira/simple-icon-badges
 
 ## 2. 데이터
 ### 2.1 원시 데이터
-640만 개의 리뷰 데이터와 5개의 열로 구성된 데이터셋을 보유하고 있다.
+리뷰 데이터는 5개의 열로 구성된 데이터셋이며, 총 640만 개가 있다.
 [[Steam Reviews 데이터셋](https://www.kaggle.com/datasets/andrewmvd/steam-reviews)]
 
 * 데이터 구성
