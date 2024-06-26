@@ -75,6 +75,8 @@ https://github.com/danmadeira/simple-icon-badges
 
 ### 2.2 좀비물 FPS 데이터 (탐색적 데이터 분석 포함)
 스팀의 FPS 좀비 게임 중 리뷰 데이터가 가장 많은 Left 4 Dead 2, Killing Floor, Doom 세 개의 게임에서 리뷰 길이가 20자 이상 500자 이하인 데이터 75,409개를 추출하였다.
+
+<p align="center"><img width="800" alt="합1" src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/c485cd07-421b-4ff5-8475-ad3683231ced"><p>
 * 게임 설명
 
 | 게임 이름  | 설명                                                                                  |
@@ -83,7 +85,6 @@ https://github.com/danmadeira/simple-icon-badges
 | Killing Floor  | 플레이어들은 팀을 이루어 각종 무장한 좀비들을 처치하고 라운드를 클리어하며 생존하는 협동적인 게임.            |
 | Doom | 인간과 지옥 사이의 전쟁을 배경으로 한 격투를 통해 고통스럽게 공포에 가득 찬 환영적인 액션게임.                                |
 
-<p align="center"><img width="800" alt="합1" src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/c485cd07-421b-4ff5-8475-ad3683231ced"><p>
 
 <img width="1157" alt="합1" src="https://github.com/rlagnldlf/Capstone_Project/assets/136410965/0b25e5cf-f9ad-4862-97db-eeaaeaab76b0">
 
